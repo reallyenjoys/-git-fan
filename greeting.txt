@@ -1,3 +1,7 @@
 Hi,Wold.
 This is greeting from github.
 You can clone it to local branch by 'git clone'.
+Hi,github.
+I create a new branch named dev on local.
+This time I will send a modify version by dev.
+Have a good day. Bye.
