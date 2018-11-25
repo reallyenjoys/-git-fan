@@ -1,0 +1,3 @@
+Git is free software.
+Git is a very useful and wonderful distribted version control system.
+Just try it.
