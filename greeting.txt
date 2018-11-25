@@ -1,0 +1,3 @@
+Hi,Wold.
+This is greeting from github.
+You can clone it to local branch by 'git clone'.
